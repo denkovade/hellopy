@@ -7,6 +7,6 @@ import helloPV as h
 
 
 def test_helloPV():
-	a = h.helloPV()
+	a = h.hello()
 
 	assert a == "Hello, PV!"
